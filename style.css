@@ -1,0 +1,142 @@
+body{
+    text-align: center;
+}
+
+.first{
+    height: 330px;
+    width: 250px;
+}
+
+.second{
+    height: 330px;
+    width: 150px;
+}
+
+.third{
+    height: 250px;
+    width: 350px;
+}
+
+.fourth{
+    height: 330px;
+    width: 250px;
+}
+
+.fifth{
+    height: 330px;
+    width: 250px;
+}
+
+.sixth{
+    height: 330px;
+    width: 250px;
+}
+
+.seventh{
+    height: 250px;
+    width: 330px;
+}
+
+.eighth{
+    height: 330px;
+    width: 250;
+}
+
+.ninth{
+    height: 250px;
+    width: 330px;
+}
+
+.tenth{
+    height: 330px;
+    width: 250px;
+}
+
+.eleventh{
+    height: 200px;
+    width: 330px;
+}
+
+.twelvth{
+    height: 250px;
+    width: 350px;
+}
+
+#myCarousel{
+    height: 100%;
+    width: 100%;
+}
+
+#home_img{
+    height: 100%;
+    width: 100%;
+}
+
+.views{
+    display: inline;
+    text-align: center;
+    font-size: 40px;
+    padding: 40px;
+    font-family: 'Jomhuria', cursive;
+    color:darkmagenta;
+}
+
+.menu{
+    position: fixed;
+    background-color: aliceblue;
+}
+
+.views:hover{
+    background-color: aquamarine;
+    text-decoration: underline;
+    font-style: oblique;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+#myCarousel img{
+    margin-top: 150px;
+}
+
+#welcome{
+    font-family: 'Roboto', Gabriola;
+    font-size: 40px;
+    color: lightpink;
+}
+
+#grid{
+    font-family: 'Roboto', Gabriola;
+    font-size: 40px;
+    color: lightpink;
+}
+
+#slide{
+    font-family: 'Roboto', Gabriola;
+    font-size: 40px;
+    color: lightpink;
+}
+
+#home{
+   background-color: seashell;
+}
+
+#grid_view{
+    background-color: lightcyan;
+}
+
+#slide_view{
+    background-color: lavender;
+}
+
+img{
+    border: solid;
+    border-color: floralwhite;
+    border-width: 20px;
+}
+
+hr{
+    height: 90px;
+    width: 100%;
+}
